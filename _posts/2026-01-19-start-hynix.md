@@ -1,5 +1,13 @@
+---
+layout: single
+title: "ESG 자동 보고서 프로젝트"
+date: 2026-01-19 15:00:00 +0900
+categories: [dev]
+tags: [jekyll, github-pages, minimal-mistakes]
+---
+
 ![fig1]({{ "/assets/images/posts/2026/260119-esg/hynix-report.png" | relative_url }})
-SK 하이닉스 ESG 보고서 클론 프로젝트
+
 ![fig1]({{ "/assets/images/posts/2026/260119-esg/issue-pool.png" | relative_url }})
 
 
